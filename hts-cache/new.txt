@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+12:54:36	24665/24665	---MCZ	200	added ('OK')	text/html	date:Mon,%2011%20Nov%202019%2018:18:08%20GMT	https://preview.uideck.com/items/core/	C:/Users/Shubrajit%20Acharjee/Downloads/velocity%20prototype/preview.uideck.com/items/core/index.html	(from )
+12:54:36	26/26	---M--	200	added ('OK')	text/plain	etag:%221a-592b3107-9e05a;;;%22	https://preview.uideck.com/robots.txt		(from )
